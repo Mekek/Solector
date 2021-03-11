@@ -1,0 +1,32 @@
+{
+  "name": "sol_mar_pl",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve --port 4500",
+    "build": "vue-cli-service build",
+    "webpack-defaults": "webpack-defaults"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bootstrap": "^4.5.3",
+    "bootstrap-vue": "^2.18.1",
+    "chart.js": "^2.9.4",
+    "cli-highlight": "^2.1.10",
+    "cli-service": "0.0.2",
+    "core-js": "^3.6.5",
+    "highlight.js": "^10.5.0",
+    "vee-validate": "^3.4.2",
+    "vue": "^2.6.11",
+    "vue-analytics": "^5.22.1",
+    "vue-chartjs": "^3.5.1",
+    "vue-meta": "^2.4.0",
+    "vue-router": "^3.4.5",
+    "vue-yandex-maps": "^0.10.9"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
